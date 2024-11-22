@@ -1,0 +1,29 @@
+body{
+    background-color: azure;
+    color:aqua;
+    font-family:'Times New Roman', Times, serif;
+}
+.focablanca{
+    width: 200px;
+    border-radius: 50px;
+    border: dotted;
+    color: blanchedalmond;
+}
+.focaacostada{
+    width: 100px;
+    border-radius: 50px;
+    border: solid;
+    color: blanchedalmond;
+}
+.imagenes{
+    text-align: center;
+}
+
+.cuidados{
+    background: url(assets/fondoescarchafoca.png) no-repeat center center;
+    background-size: cover; 
+    padding: 20px; 
+    border-radius: 10px; 
+    margin: 20px 0; 
+    color: #9cabb5;
+  }
